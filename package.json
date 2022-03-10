@@ -1,0 +1,10 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Bruno Guerra",
+  "license": "ISC"
+}
