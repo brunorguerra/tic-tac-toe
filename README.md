@@ -8,8 +8,8 @@ This project was bootstrapped with [JQuery](https://jquery.com/)
 
 ## Links
 
-- Deploy on Netlify: https://bootstrap-selfcare.netlify.app/
-- Repository: https://github.com/brunorguerra/landing-page-selfcare/
+- Deploy on Netlify: https://js-jogodavelha.netlify.app/
+- Repository: https://github.com/brunorguerra/tic-tac-toe/
 
 ## Versioning
 
